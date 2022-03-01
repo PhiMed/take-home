@@ -226,7 +226,7 @@
           null
         ]
       },
-      "/Users/PM/turing/4module/take-home/spec/models_spec/subscription_spec.rb": {
+      "/Users/PM/turing/4module/take-home/spec/models_spec/customer_subscription_spec.rb": {
         "lines": [
           1,
           null,
@@ -238,8 +238,30 @@
           null
         ]
       },
+      "/Users/PM/turing/4module/take-home/app/models/customer_subscription.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/PM/turing/4module/take-home/spec/models_spec/subscription_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
       "/Users/PM/turing/4module/take-home/app/models/subscription.rb": {
         "lines": [
+          1,
           1,
           1,
           1,
@@ -253,7 +275,6 @@
           1,
           1,
           2,
-          2,
           null,
           null
         ]
@@ -262,11 +283,10 @@
         "lines": [
           1,
           1,
-          1,
           null
         ]
       }
     },
-    "timestamp": 1646103932
+    "timestamp": 1646107267
   }
 }
