@@ -1,4 +1,4 @@
-class Api::V1::CustomersController < ApplicationController
+class Api::V1::SubscriptionsController < ApplicationController
   def index
 
   end
@@ -8,7 +8,7 @@ class Api::V1::CustomersController < ApplicationController
   end
 
   def create
-
+    
   end
 
   def update

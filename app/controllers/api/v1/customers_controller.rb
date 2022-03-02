@@ -4,7 +4,11 @@ class Api::V1::CustomersController < ApplicationController
   end
 
   def show
-
+    if Customer.exists?(params[:id])
+      render json: CustomerSerializer.new(Customer.find(params[:id]))
+    else
+      render json: {errors: {details: "Not Found"}}, status: 404
+    end
   end
 
   def create

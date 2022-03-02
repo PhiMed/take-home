@@ -195,7 +195,7 @@
           null,
           null,
           1,
-          1,
+          2,
           null,
           null,
           null,
@@ -207,6 +207,14 @@
       "/Users/PM/turing/4module/take-home/config/routes.rb": {
         "lines": [
           1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
           null,
           null
         ]
@@ -226,7 +234,7 @@
           null
         ]
       },
-      "/Users/PM/turing/4module/take-home/spec/models_spec/customer_subscription_spec.rb": {
+      "/Users/PM/turing/4module/take-home/spec/models/customer_subscription_spec.rb": {
         "lines": [
           1,
           null,
@@ -246,7 +254,7 @@
           null
         ]
       },
-      "/Users/PM/turing/4module/take-home/spec/models_spec/subscription_spec.rb": {
+      "/Users/PM/turing/4module/take-home/spec/models/subscription_spec.rb": {
         "lines": [
           1,
           null,
@@ -268,7 +276,7 @@
           null
         ]
       },
-      "/Users/PM/turing/4module/take-home/spec/models_spec/tea_spec.rb": {
+      "/Users/PM/turing/4module/take-home/spec/models/tea_spec.rb": {
         "lines": [
           1,
           null,
@@ -285,8 +293,180 @@
           1,
           null
         ]
+      },
+      "/Users/PM/turing/4module/take-home/spec/requests/api/v1/customer_request_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/PM/turing/4module/take-home/spec/requests/api/v1/subscription_request_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/PM/turing/4module/take-home/app/controllers/api/v1/customers_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          6,
+          6,
+          null,
+          0,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          0,
+          null,
+          null
+        ]
+      },
+      "/Users/PM/turing/4module/take-home/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/PM/turing/4module/take-home/app/serializers/customer_serializer.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/PM/turing/4module/take-home/app/controllers/api/v1/customer_subscriptions_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          0,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1646107267
+    "timestamp": 1646192625
   }
 }
